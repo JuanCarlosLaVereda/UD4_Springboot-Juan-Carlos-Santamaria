@@ -16,7 +16,7 @@ Para empaquetar su proyecto Spring Boot en un archivo JAR ejecutable en IntelliJ
    - Aplicar y aceptar cambios
 4. **Construir el Artefacto**:
    - Simplemente ejecutar el proyecto
-5. **Generar el archivo .jar**
+5. **Generar el archivo .jar**:
    -Nos dirijimos a la pestaña de `Gradle` y abrimos Tasks->build y hacemos doble click a `bootJar`
    -El archivo .jar se abrá generado en la ruta `builds/libs`
    
