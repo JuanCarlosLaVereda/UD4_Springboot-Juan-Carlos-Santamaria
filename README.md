@@ -12,9 +12,8 @@ Para empaquetar su proyecto Spring Boot en un archivo JAR ejecutable en IntelliJ
    - Navegue al menú `File` y seleccione `Project Structure`.
 
 3. **JDK**:
-   - Acceder a `Project Structure`
    - Seleccionar la versión de SDK `Java 17`
-   - Aplicar y aceptar cambiom
+   - Aplicar y aceptar cambios
 4. **Construir el Artefacto**:
    - Simplemente ejecutar el proyecto
 5. **Generar el archivo .jar**
